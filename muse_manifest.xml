@@ -1,0 +1,244 @@
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528173157916">
+  <folder name="css">
+    <file name="site_global.css" crc="4036763983"/>
+    <file name="master_a-master.css" crc="3836766189" ref="timelines:contact:one-and-a-half:curtain:gallery:24-hour-franco:blurred-lines:bio:portal-series:the-last-300-days:work:case-study:nexus:lindsay:embers:glitch-monument:13--pervert:index:this-is-tomorrow"/>
+    <file name="timelines.css" crc="455589220" ref="timelines"/>
+    <file name="contact.css" crc="3861639092" ref="contact"/>
+    <file name="one-and-a-half.css" crc="4040488" ref="one-and-a-half"/>
+    <file name="curtain.css" crc="460300649" ref="curtain"/>
+    <file name="gallery.css" crc="4061523889" ref="gallery"/>
+    <file name="24-hour-franco.css" crc="141674702" ref="24-hour-franco"/>
+    <file name="blurred-lines.css" crc="366053956" ref="blurred-lines"/>
+    <file name="bio.css" crc="3963947733" ref="bio"/>
+    <file name="portal-series.css" crc="287850068" ref="portal-series"/>
+    <file name="the-last-300-days.css" crc="100059999" ref="the-last-300-days"/>
+    <file name="work.css" crc="3935959317" ref="work"/>
+    <file name="case-study.css" crc="320298913" ref="case-study"/>
+    <file name="nexus.css" crc="4214511442" ref="nexus"/>
+    <file name="lindsay.css" crc="4059988438" ref="lindsay"/>
+    <file name="embers.css" crc="340562905" ref="embers"/>
+    <file name="glitch-monument.css" crc="406016829" ref="glitch-monument"/>
+    <file name="13--pervert.css" crc="3923866650" ref="13--pervert"/>
+    <file name="index.css" crc="122855361" ref="index"/>
+    <file name="this-is-tomorrow.css" crc="387776878" ref="this-is-tomorrow"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="museutils.js" crc="4136605575" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="pie.js" crc="3827607177" ref="embers"/>
+    <file name="webpro.js" crc="420478120" ref="embers:contact"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="embers"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="embers"/>
+    <file name="touchswipe.js" crc="60020316" ref="embers"/>
+    <file name="form_check.php" crc="313295658" ref="contact"/>
+    <file name="form_throttle.php" crc="254134657" ref="contact"/>
+    <file name="form_process.php" crc="304694956" ref="contact"/>
+    <file name="form-u646.php" crc="76422112" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="368856659" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u111.png" crc="4236704048" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u111-r.png" crc="4096576298" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u111-a.png" crc="4096576298" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u118.png" crc="4030707778" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u118-r.png" crc="3925576641" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u118-a.png" crc="3925576641" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u139.png" crc="3766214041" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u139-r.png" crc="4013926256" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u139-a.png" crc="4013926256" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="index"/>
+    <file name="u4100.png" crc="33963960" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u4100-r.png" crc="239289032" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u4100-a.png" crc="239289032" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u4085.png" crc="162343647" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u4085-r.png" crc="3819249366" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u4085-a.png" crc="3819249366" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u4014.png" crc="232158532" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u4014-r.png" crc="4229522727" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u4014-a.png" crc="4229522727" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u4037.png" crc="8595265" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u4037-r.png" crc="4177972995" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u4037-a.png" crc="4177972995" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3836.png" crc="149162180" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3836-r.png" crc="4032958219" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3836-a.png" crc="4032958219" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3746.png" crc="160326431" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3746-r.png" crc="3927595786" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3746-a.png" crc="3927595786" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3783.png" crc="3927583367" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3783-r.png" crc="9749997" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3783-a.png" crc="9749997" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3207.png" crc="3814534554" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3207-r.png" crc="510642739" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3207-a.png" crc="510642739" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u228.png" crc="3761663820" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u228-r.png" crc="4103422625" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u228-a.png" crc="4103422625" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u243.png" crc="423802263" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u243-r.png" crc="4169720978" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u243-a.png" crc="4169720978" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u271.png" crc="106285563" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u271-r.png" crc="4188979070" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u271-a.png" crc="4188979070" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u282.png" crc="75248244" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u282-r.png" crc="4121887414" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u282-a.png" crc="4121887414" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u296.png" crc="502214745" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u296-r.png" crc="328464490" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u296-a.png" crc="328464490" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u310.png" crc="3831957687" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u310-r.png" crc="298324926" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u310-a.png" crc="298324926" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3071.png" crc="4234218581" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3071-r.png" crc="272145702" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u3071-a.png" crc="272145702" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u524.png" crc="3931590366" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u524-r.png" crc="4102046473" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="u524-a.png" crc="4102046473" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
+    <file name="img_0808.jpg" crc="306691600" ref="index"/>
+    <file name="img_4715.jpg" crc="3942431905" ref="work"/>
+    <file name="img_1005.jpg" crc="4031038139" ref="bio"/>
+    <file name="img_9055.jpg" crc="257761027" ref="timelines"/>
+    <file name="sync!-crop-u2783.jpg" crc="3926393493" ref="nexus"/>
+    <file name="embers01.jpg" crc="4259827112" ref="embers"/>
+    <file name="embers02.jpg" crc="4275699230" ref="embers"/>
+    <file name="embers03.jpg" crc="31205689" ref="embers"/>
+    <file name="embers04.jpg" crc="4026693544" ref="embers"/>
+    <file name="embers05.jpg" crc="4219036458" ref="embers"/>
+    <file name="embers06.jpg" crc="89182688" ref="embers"/>
+    <file name="embers07.jpg" crc="423459702" ref="embers"/>
+    <file name="embers08.jpg" crc="126830611" ref="embers"/>
+    <file name="embers09.jpg" crc="314410642" ref="embers"/>
+    <file name="embers10.jpg" crc="91647493" ref="embers"/>
+    <file name="embers11.jpg" crc="4090141670" ref="embers"/>
+    <file name="embers12.jpg" crc="495085431" ref="embers"/>
+    <file name="embers13.jpg" crc="3992246751" ref="embers"/>
+    <file name="embers14.jpg" crc="3970613890" ref="embers"/>
+    <file name="embers15.jpg" crc="3865999158" ref="embers"/>
+    <file name="embers16.jpg" crc="4076667483" ref="embers"/>
+    <file name="embers17.jpg" crc="4178945873" ref="embers"/>
+    <file name="embers18.jpg" crc="4200274362" ref="embers"/>
+    <file name="embers19.jpg" crc="4094601680" ref="embers"/>
+    <file name="embers20.jpg" crc="4102044454" ref="embers"/>
+    <file name="embers21.jpg" crc="4226635736" ref="embers"/>
+    <file name="embers22.jpg" crc="112391440" ref="embers"/>
+    <file name="embers23.jpg" crc="4206332320" ref="embers"/>
+    <file name="embers24.jpg" crc="4223778799" ref="embers"/>
+    <file name="embers25.jpg" crc="404783590" ref="embers"/>
+    <file name="embers26.jpg" crc="59654068" ref="embers"/>
+    <file name="embers27.jpg" crc="4080979477" ref="embers"/>
+    <file name="embers28.jpg" crc="230284212" ref="embers"/>
+    <file name="embers29.jpg" crc="3963792298" ref="embers"/>
+    <file name="embers30.jpg" crc="95525737" ref="embers"/>
+    <file name="embers31.jpg" crc="3807250472" ref="embers"/>
+    <file name="embers32.jpg" crc="4215170187" ref="embers"/>
+    <file name="embers33.jpg" crc="399598918" ref="embers"/>
+    <file name="embers34.jpg" crc="4111080845" ref="embers"/>
+    <file name="embers35.jpg" crc="3848632335" ref="embers"/>
+    <file name="embers36.jpg" crc="373618174" ref="embers"/>
+    <file name="embers37.jpg" crc="3977182477" ref="embers"/>
+    <file name="embers38.jpg" crc="528826816" ref="embers"/>
+    <file name="embers39.jpg" crc="411692079" ref="embers"/>
+    <file name="embers40.jpg" crc="4257837499" ref="embers"/>
+    <file name="embers41.jpg" crc="3972078982" ref="embers"/>
+    <file name="embers42.jpg" crc="3952117712" ref="embers"/>
+    <file name="embers43.jpg" crc="4107335696" ref="embers"/>
+    <file name="embers44.jpg" crc="4028825531" ref="embers"/>
+    <file name="embers45.jpg" crc="389193681" ref="embers"/>
+    <file name="embers46.jpg" crc="4012260802" ref="embers"/>
+    <file name="embers47.jpg" crc="4254258647" ref="embers"/>
+    <file name="embers48.jpg" crc="4266821144" ref="embers"/>
+    <file name="embers01120x90.jpg" crc="374169210" ref="embers"/>
+    <file name="embers02120x90.jpg" crc="4255077379" ref="embers"/>
+    <file name="embers03120x90.jpg" crc="67376867" ref="embers"/>
+    <file name="embers04120x90.jpg" crc="4224879241" ref="embers"/>
+    <file name="embers05120x90.jpg" crc="3888291040" ref="embers"/>
+    <file name="embers06120x90.jpg" crc="81517212" ref="embers"/>
+    <file name="embers07120x90.jpg" crc="4167069390" ref="embers"/>
+    <file name="embers08120x90.jpg" crc="112297031" ref="embers"/>
+    <file name="embers09120x90.jpg" crc="82913609" ref="embers"/>
+    <file name="embers10120x90.jpg" crc="292096228" ref="embers"/>
+    <file name="embers11120x90.jpg" crc="482744675" ref="embers"/>
+    <file name="embers12120x90.jpg" crc="3771637455" ref="embers"/>
+    <file name="embers13120x90.jpg" crc="174677108" ref="embers"/>
+    <file name="embers14120x90.jpg" crc="4149151432" ref="embers"/>
+    <file name="embers15120x90.jpg" crc="4276295374" ref="embers"/>
+    <file name="embers16120x90.jpg" crc="92371263" ref="embers"/>
+    <file name="embers17120x90.jpg" crc="399714515" ref="embers"/>
+    <file name="embers18120x90.jpg" crc="3908126551" ref="embers"/>
+    <file name="embers19120x90.jpg" crc="3790604983" ref="embers"/>
+    <file name="embers20120x90.jpg" crc="4087081882" ref="embers"/>
+    <file name="embers21120x90.jpg" crc="440503962" ref="embers"/>
+    <file name="embers22120x90.jpg" crc="530293999" ref="embers"/>
+    <file name="embers23120x90.jpg" crc="427570940" ref="embers"/>
+    <file name="embers24120x90.jpg" crc="3901125342" ref="embers"/>
+    <file name="embers25120x90.jpg" crc="344933548" ref="embers"/>
+    <file name="embers26120x90.jpg" crc="4259510125" ref="embers"/>
+    <file name="embers27120x90.jpg" crc="453808807" ref="embers"/>
+    <file name="embers28120x90.jpg" crc="3769523342" ref="embers"/>
+    <file name="embers29120x90.jpg" crc="4039266251" ref="embers"/>
+    <file name="embers30120x90.jpg" crc="3853700372" ref="embers"/>
+    <file name="embers31120x90.jpg" crc="398640908" ref="embers"/>
+    <file name="embers32120x90.jpg" crc="3758881685" ref="embers"/>
+    <file name="embers33120x90.jpg" crc="4020506197" ref="embers"/>
+    <file name="embers34120x90.jpg" crc="4270276420" ref="embers"/>
+    <file name="embers35120x90.jpg" crc="117265963" ref="embers"/>
+    <file name="embers36120x90.jpg" crc="4111714693" ref="embers"/>
+    <file name="embers37120x90.jpg" crc="107345296" ref="embers"/>
+    <file name="embers38120x90.jpg" crc="3950104778" ref="embers"/>
+    <file name="embers39120x90.jpg" crc="59055337" ref="embers"/>
+    <file name="embers40120x90.jpg" crc="3857410750" ref="embers"/>
+    <file name="embers41120x90.jpg" crc="3828016371" ref="embers"/>
+    <file name="embers42120x90.jpg" crc="448019553" ref="embers"/>
+    <file name="embers43120x90.jpg" crc="4001800851" ref="embers"/>
+    <file name="embers44120x90.jpg" crc="4029666913" ref="embers"/>
+    <file name="embers45120x90.jpg" crc="3918239704" ref="embers"/>
+    <file name="embers46120x90.jpg" crc="14410879" ref="embers"/>
+    <file name="embers47120x90.jpg" crc="387627522" ref="embers"/>
+    <file name="embers48120x90.jpg" crc="3919067509" ref="embers"/>
+    <file name="loading.gif" crc="3815509949" ref="embers"/>
+    <file name="pervertlogo-crop-u2418.jpg" crc="4178826808" ref="13--pervert"/>
+    <file name="u662.png" crc="282942992" ref="contact"/>
+    <file name="u662-ferr.png" crc="282942992" ref="contact"/>
+    <file name="u665-17.png" crc="84397629" ref="contact"/>
+    <file name="u665-17-r.png" crc="84397629" ref="contact"/>
+    <file name="u665-17-m.png" crc="84397629" ref="contact"/>
+    <file name="u665-17-fs.png" crc="3827621482" ref="contact"/>
+    <file name="u655.png" crc="282942992" ref="contact"/>
+    <file name="u655-ferr.png" crc="282942992" ref="contact"/>
+    <file name="img_4868-crop-u4164.jpg" crc="519476656" ref="gallery"/>
+    <file name="untitled.jpg" crc="4150883914" ref="gallery"/>
+    <file name="img_9305.jpg" crc="350769202" ref="gallery"/>
+    <file name="img_6040.jpg" crc="118533632" ref="gallery"/>
+    <file name="img_6042.jpg" crc="4198029629" ref="gallery"/>
+    <file name="img_1081-crop-u3970.jpg" crc="4281907329" ref="gallery"/>
+    <file name="img_0158resize.jpg" crc="3857681558" ref="gallery"/>
+    <file name="mop-december-9861.jpg" crc="506768142" ref="24-hour-franco"/>
+    <file name="vividxcurtain.jpg" crc="40115463" ref="curtain"/>
+    <file name="blurred linesb-crop-u4040.jpg" crc="4118958510" ref="blurred-lines"/>
+    <file name="portal_03.jpg" crc="501036424" ref="portal-series"/>
+  </folder>
+  <file name="index.html" crc="170267417" mt="1520837394138" redirect="true"/>
+  <file name="work.html" crc="404600507" mt="1520838531065" redirect="true"/>
+  <file name="bio.html" crc="109501284" mt="1520909246817" redirect="true"/>
+  <file name="timelines.html" crc="4243114929" mt="1520837394139" redirect="true"/>
+  <file name="nexus.html" crc="267174123" mt="1520837394140" redirect="true"/>
+  <file name="one-and-a-half.html" crc="207877406" mt="1520837394140" redirect="true"/>
+  <file name="case-study.html" crc="536301242" mt="1520837394141" redirect="true"/>
+  <file name="embers.html" crc="493325412" mt="1520837394142" redirect="true"/>
+  <file name="13--pervert.html" crc="3892738208" mt="1520837394143" redirect="true"/>
+  <file name="contact.html" crc="291376108" mt="1528173143907" redirect="true"/>
+  <file name="gallery.html" crc="11512706" mt="1520839345321" redirect="true"/>
+  <file name="the-last-300-days.html" crc="329237863" mt="1520837394150" redirect="true"/>
+  <file name="lindsay.html" crc="179349386" mt="1520837394150" redirect="true"/>
+  <file name="glitch-monument.html" crc="3907023286" mt="1520905276823" redirect="true"/>
+  <file name="24-hour-franco.html" crc="4206735" mt="1520837394151" redirect="true"/>
+  <file name="curtain.html" crc="4038219216" mt="1520837394152" redirect="true"/>
+  <file name="blurred-lines.html" crc="4228286467" mt="1520837394152" redirect="true"/>
+  <file name="portal-series.html" crc="211871177" mt="1520837394153" redirect="true"/>
+  <file name="this-is-tomorrow.html" crc="4067629488" mt="1520909201858" redirect="true"/>
+</manifest>
