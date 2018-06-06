@@ -1,7 +1,7 @@
 .version.case_study /* version checker */
 {
-	color: #000013;
-	background-color: #175FA1;
+	color: #0000FC;
+	background-color: #25E835;
 }
 
 .html
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	width: 927px;
+	width: 999px;
 	min-height: 376px;
 	background-image: none;
 	border-style: none;
@@ -20,7 +20,7 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 62px 93px 62px 20px;
+	padding: 62px 21px 62px 20px;
 }
 
 #pmenuu87
@@ -360,13 +360,10 @@
 	margin-right: -10000px;
 }
 
-#u3940
+#u4202
 {
-	z-index: 127;
-	width: 677px;
-	min-height: 423px;
-	border-style: none;
-	border-color: transparent;
+	z-index: 140;
+	width: 749px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -374,9 +371,9 @@
 	left: 250px;
 }
 
-#u4051-5
+#u4051-7
 {
-	z-index: 128;
+	z-index: 127;
 	width: 671px;
 	min-height: 14px;
 	background-color: transparent;
@@ -384,27 +381,27 @@
 	line-height: 14px;
 	font-style: italic;
 	margin-left: 250px;
-	margin-top: 11px;
+	margin-top: 7px;
 	position: relative;
 }
 
-#u4051-5:hover
+#u4051-7:hover
 {
 	background-color: #000000;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 14px;
-	margin: 11px 0px 0px 250px;
+	margin: 7px 0px 0px 250px;
 }
 
-#u4051-2
+#u4051-4
 {
 	font-style: normal;
 }
 
 #u4054-6
 {
-	z-index: 133;
+	z-index: 134;
 	width: 671px;
 	min-height: 14px;
 	background-color: transparent;
@@ -425,7 +422,7 @@
 	margin: 18px 0px 0px 250px;
 }
 
-#u4051-5:hover p,#u4051-5:hover span,#u4054-6:hover p,#u4054-6:hover a
+#u4051-7:hover p,#u4051-7:hover a,#u4051-7:hover span,#u4054-6:hover p,#u4054-6:hover a
 {
 	color: #FFFFFF;
 	visibility: inherit;
