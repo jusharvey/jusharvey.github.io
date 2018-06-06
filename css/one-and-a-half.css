@@ -1,7 +1,7 @@
 .version.one_and_a_half /* version checker */
 {
-	color: #000000;
-	background-color: #3DA728;
+	color: #0000E0;
+	background-color: #216EC2;
 }
 
 .html
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	width: 921px;
+	width: 1000px;
 	min-height: 376px;
 	background-image: none;
 	border-style: none;
@@ -20,7 +20,7 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 62px 99px 62px 20px;
+	padding: 62px 20px;
 }
 
 #pmenuu87
@@ -360,44 +360,41 @@
 	margin-right: -10000px;
 }
 
-#u3931
+#u4196
 {
-	z-index: 127;
-	width: 703px;
-	min-height: 440px;
-	border-style: none;
-	border-color: transparent;
+	z-index: 136;
+	width: 750px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
-	left: 172px;
+	margin-top: 2px;
+	left: 250px;
 }
 
-#u4057-7
+#u4057-9
 {
-	z-index: 128;
-	width: 670px;
+	z-index: 127;
+	width: 344px;
 	min-height: 14px;
 	background-color: transparent;
 	font-size: 12px;
 	line-height: 14px;
 	font-style: italic;
 	margin-left: 251px;
-	margin-top: 5px;
+	margin-top: 7px;
 	position: relative;
 }
 
-#u4057-7:hover
+#u4057-9:hover
 {
 	background-color: #000000;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 14px;
-	margin: 5px 0px 0px 251px;
+	margin: 7px 0px 0px 251px;
 }
 
-#u4057-7:hover p,#u4057-7:hover a
+#u4057-9:hover p,#u4057-9:hover a
 {
 	color: #FFFFFF;
 	visibility: inherit;

@@ -1,7 +1,7 @@
 .version.glitch_monument /* version checker */
 {
-	color: #000018;
-	background-color: #33533D;
+	color: #0000E2;
+	background-color: #29088B;
 }
 
 .html
@@ -12,15 +12,20 @@
 #page
 {
 	z-index: 1;
-	width: 1040px;
-	min-height: 507px;
+	width: 1000px;
+	min-height: 488.85000000000014px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	padding-bottom: 171px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 62px 20px 127.14999999999986px;
+}
+
+#pmenuu87
+{
+	width: 0.01px;
 }
 
 #menuu87
@@ -28,8 +33,8 @@
 	z-index: 2;
 	width: 110px;
 	margin-right: -10000px;
-	margin-top: 134px;
-	left: 35px;
+	margin-top: 72px;
+	left: 15px;
 }
 
 #u105
@@ -343,8 +348,8 @@
 	z-index: 120;
 	width: 5px;
 	margin-right: -10000px;
-	margin-top: 141px;
-	left: 233px;
+	margin-top: 79px;
+	left: 213px;
 }
 
 #u3459-4
@@ -353,55 +358,48 @@
 	width: 262px;
 	min-height: 18px;
 	margin-right: -10000px;
-	margin-top: 62px;
-	left: 20px;
 }
 
-#u4170
+#u4184
 {
-	z-index: 127;
-	width: 749px;
-	min-height: 468px;
-	border-style: none;
-	border-color: transparent;
+	z-index: 133;
+	width: 750px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 39px;
-	left: 270px;
+	left: 250px;
 }
 
-#u4045-5
+#u4045-6
 {
-	z-index: 128;
-	width: 746px;
+	z-index: 127;
+	width: 385px;
 	min-height: 14px;
 	background-color: transparent;
 	font-size: 12px;
 	line-height: 14px;
 	font-style: italic;
+	margin-left: 251px;
+	margin-top: 6px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 488px;
-	left: 271px;
 }
 
-#u4045-5:hover
+#u4045-6:hover
 {
 	background-color: #000000;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 14px;
-	margin: 488px -10000px 0px 0px;
+	margin: 6px 0px 0px 251px;
 }
 
-#u4045-5:hover p,#u4045-5:hover span
+#u4045-6:hover p,#u4045-6:hover a,#u4045-6:hover span
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#u4045-2
+#u4045-3
 {
 	font-style: normal;
 }

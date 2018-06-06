@@ -1,26 +1,26 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528173157916">
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528265011609">
   <folder name="css">
     <file name="site_global.css" crc="4036763983"/>
-    <file name="master_a-master.css" crc="3836766189" ref="timelines:contact:one-and-a-half:curtain:gallery:24-hour-franco:blurred-lines:bio:portal-series:the-last-300-days:work:case-study:nexus:lindsay:embers:glitch-monument:13--pervert:index:this-is-tomorrow"/>
+    <file name="master_a-master.css" crc="3836766189" ref="timelines:index:bio:13--pervert:glitch-monument:embers:blurred-lines:curtain:case-study:lindsay:this-is-tomorrow:24-hour-franco:nexus:the-last-300-days:portal-series:one-and-a-half:gallery:work:contact"/>
     <file name="timelines.css" crc="455589220" ref="timelines"/>
-    <file name="contact.css" crc="3861639092" ref="contact"/>
-    <file name="one-and-a-half.css" crc="4040488" ref="one-and-a-half"/>
-    <file name="curtain.css" crc="460300649" ref="curtain"/>
-    <file name="gallery.css" crc="4061523889" ref="gallery"/>
-    <file name="24-hour-franco.css" crc="141674702" ref="24-hour-franco"/>
-    <file name="blurred-lines.css" crc="366053956" ref="blurred-lines"/>
-    <file name="bio.css" crc="3963947733" ref="bio"/>
-    <file name="portal-series.css" crc="287850068" ref="portal-series"/>
-    <file name="the-last-300-days.css" crc="100059999" ref="the-last-300-days"/>
-    <file name="work.css" crc="3935959317" ref="work"/>
-    <file name="case-study.css" crc="320298913" ref="case-study"/>
-    <file name="nexus.css" crc="4214511442" ref="nexus"/>
-    <file name="lindsay.css" crc="4059988438" ref="lindsay"/>
-    <file name="embers.css" crc="340562905" ref="embers"/>
-    <file name="glitch-monument.css" crc="406016829" ref="glitch-monument"/>
-    <file name="13--pervert.css" crc="3923866650" ref="13--pervert"/>
     <file name="index.css" crc="122855361" ref="index"/>
-    <file name="this-is-tomorrow.css" crc="387776878" ref="this-is-tomorrow"/>
+    <file name="bio.css" crc="4045028435" ref="bio"/>
+    <file name="13--pervert.css" crc="3923866650" ref="13--pervert"/>
+    <file name="glitch-monument.css" crc="3794339979" ref="glitch-monument"/>
+    <file name="embers.css" crc="340562905" ref="embers"/>
+    <file name="blurred-lines.css" crc="483060157" ref="blurred-lines"/>
+    <file name="curtain.css" crc="3979269566" ref="curtain"/>
+    <file name="case-study.css" crc="4230342709" ref="case-study"/>
+    <file name="lindsay.css" crc="315569058" ref="lindsay"/>
+    <file name="this-is-tomorrow.css" crc="9352840" ref="this-is-tomorrow"/>
+    <file name="24-hour-franco.css" crc="516188740" ref="24-hour-franco"/>
+    <file name="nexus.css" crc="522819667" ref="nexus"/>
+    <file name="the-last-300-days.css" crc="3970128797" ref="the-last-300-days"/>
+    <file name="portal-series.css" crc="441941822" ref="portal-series"/>
+    <file name="one-and-a-half.css" crc="3760287426" ref="one-and-a-half"/>
+    <file name="gallery.css" crc="4061523889" ref="gallery"/>
+    <file name="work.css" crc="3935959317" ref="work"/>
+    <file name="contact.css" crc="334793969" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:work:bio:timelines:nexus:one-and-a-half:case-study:embers:13--pervert:contact:gallery:the-last-300-days:lindsay:glitch-monument:24-hour-franco:curtain:blurred-lines:portal-series:this-is-tomorrow"/>
@@ -104,6 +104,8 @@
     <file name="img_1005.jpg" crc="4031038139" ref="bio"/>
     <file name="img_9055.jpg" crc="257761027" ref="timelines"/>
     <file name="sync!-crop-u2783.jpg" crc="3926393493" ref="nexus"/>
+    <file name="oneandahalf.jpg" crc="3763792987" ref="one-and-a-half"/>
+    <file name="case study.jpg" crc="202210314" ref="case-study"/>
     <file name="embers01.jpg" crc="4259827112" ref="embers"/>
     <file name="embers02.jpg" crc="4275699230" ref="embers"/>
     <file name="embers03.jpg" crc="31205689" ref="embers"/>
@@ -217,28 +219,32 @@
     <file name="img_6042.jpg" crc="4198029629" ref="gallery"/>
     <file name="img_1081-crop-u3970.jpg" crc="4281907329" ref="gallery"/>
     <file name="img_0158resize.jpg" crc="3857681558" ref="gallery"/>
+    <file name="img_2983.jpg" crc="4031035932" ref="the-last-300-days"/>
+    <file name="lindsay_art_1_hi.png" crc="351763315" ref="lindsay"/>
+    <file name="isiyc3.jpg" crc="3890970422" ref="glitch-monument"/>
     <file name="mop-december-9861.jpg" crc="506768142" ref="24-hour-franco"/>
     <file name="vividxcurtain.jpg" crc="40115463" ref="curtain"/>
     <file name="blurred linesb-crop-u4040.jpg" crc="4118958510" ref="blurred-lines"/>
     <file name="portal_03.jpg" crc="501036424" ref="portal-series"/>
+    <file name="tit 2018.jpg" crc="3773719585" ref="this-is-tomorrow"/>
   </folder>
   <file name="index.html" crc="170267417" mt="1520837394138" redirect="true"/>
   <file name="work.html" crc="404600507" mt="1520838531065" redirect="true"/>
   <file name="bio.html" crc="109501284" mt="1520909246817" redirect="true"/>
   <file name="timelines.html" crc="4243114929" mt="1520837394139" redirect="true"/>
   <file name="nexus.html" crc="267174123" mt="1520837394140" redirect="true"/>
-  <file name="one-and-a-half.html" crc="207877406" mt="1520837394140" redirect="true"/>
-  <file name="case-study.html" crc="536301242" mt="1520837394141" redirect="true"/>
+  <file name="one-and-a-half.html" crc="344947749" mt="1528264082172" redirect="true"/>
+  <file name="case-study.html" crc="3995713063" mt="1528264082253" redirect="true"/>
   <file name="embers.html" crc="493325412" mt="1520837394142" redirect="true"/>
   <file name="13--pervert.html" crc="3892738208" mt="1520837394143" redirect="true"/>
-  <file name="contact.html" crc="291376108" mt="1528173143907" redirect="true"/>
+  <file name="contact.html" crc="291376108" mt="1528264997258" redirect="true"/>
   <file name="gallery.html" crc="11512706" mt="1520839345321" redirect="true"/>
-  <file name="the-last-300-days.html" crc="329237863" mt="1520837394150" redirect="true"/>
-  <file name="lindsay.html" crc="179349386" mt="1520837394150" redirect="true"/>
-  <file name="glitch-monument.html" crc="3907023286" mt="1520905276823" redirect="true"/>
-  <file name="24-hour-franco.html" crc="4206735" mt="1520837394151" redirect="true"/>
-  <file name="curtain.html" crc="4038219216" mt="1520837394152" redirect="true"/>
-  <file name="blurred-lines.html" crc="4228286467" mt="1520837394152" redirect="true"/>
-  <file name="portal-series.html" crc="211871177" mt="1520837394153" redirect="true"/>
-  <file name="this-is-tomorrow.html" crc="4067629488" mt="1520909201858" redirect="true"/>
+  <file name="the-last-300-days.html" crc="4167445196" mt="1528262687955" redirect="true"/>
+  <file name="lindsay.html" crc="426222863" mt="1528264082110" redirect="true"/>
+  <file name="glitch-monument.html" crc="491998054" mt="1528264081707" redirect="true"/>
+  <file name="24-hour-franco.html" crc="4206735" mt="1528262813364" redirect="true"/>
+  <file name="curtain.html" crc="4038219216" mt="1528262793188" redirect="true"/>
+  <file name="blurred-lines.html" crc="4228286467" mt="1528262801767" redirect="true"/>
+  <file name="portal-series.html" crc="211871177" mt="1528262782674" redirect="true"/>
+  <file name="this-is-tomorrow.html" crc="96511681" mt="1528264938136" redirect="true"/>
 </manifest>

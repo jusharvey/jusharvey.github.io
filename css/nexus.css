@@ -1,7 +1,7 @@
 .version.nexus /* version checker */
 {
-	color: #0000FB;
-	background-color: #345752;
+	color: #00001F;
+	background-color: #299853;
 }
 
 .html
@@ -376,8 +376,8 @@
 	width: 672px;
 	min-height: 14px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	text-align: justify;
 	font-style: italic;
 	margin-left: 250px;
@@ -411,8 +411,8 @@
 	width: 671px;
 	min-height: 63px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	text-align: justify;
 	margin-left: 250px;
 	margin-top: 14px;

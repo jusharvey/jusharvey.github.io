@@ -1,7 +1,7 @@
 .version.bio /* version checker */
 {
-	color: #0000EC;
-	background-color: #450AD5;
+	color: #0000F1;
+	background-color: #1A3C53;
 }
 
 .html
@@ -389,8 +389,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	text-align: right;
 	position: relative;
 	margin-right: -10000px;
