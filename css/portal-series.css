@@ -1,7 +1,7 @@
 .version.portal_series /* version checker */
 {
-	color: #00001A;
-	background-color: #577F3E;
+	color: #000011;
+	background-color: #283E54;
 }
 
 .html
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	width: 784px;
+	width: 819px;
 	min-height: 376px;
 	background-image: none;
 	border-style: none;
@@ -20,7 +20,7 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 62px 236px 62px 20px;
+	padding: 62px 201px 62px 20px;
 }
 
 #pmenuu87
@@ -374,7 +374,7 @@
 #u4132-5
 {
 	z-index: 129;
-	width: 212px;
+	width: 570px;
 	min-height: 14px;
 	background-color: transparent;
 	font-size: 12px;

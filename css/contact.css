@@ -10,8 +10,8 @@
 
 .version.contact /* version checker */
 {
-	color: #000009;
-	background-color: #4F4F40;
+	color: #0000E6;
+	background-color: #2BEFB4;
 }
 
 .html
@@ -422,8 +422,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #08001B;
+	line-height: 14px;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -518,8 +518,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #08001B;
+	line-height: 14px;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
@@ -754,8 +754,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #08001B;
+	line-height: 14px;
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;

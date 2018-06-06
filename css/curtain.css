@@ -1,7 +1,7 @@
 .version.curtain /* version checker */
 {
-	color: #0000ED;
-	background-color: #2ED5BE;
+	color: #00001B;
+	background-color: #6FA169;
 }
 
 .html
@@ -373,7 +373,7 @@
 #u4026-7
 {
 	z-index: 127;
-	width: 333px;
+	width: 478px;
 	min-height: 14px;
 	background-color: transparent;
 	font-size: 12px;

@@ -1,7 +1,7 @@
 .version.this_is_tomorrow /* version checker */
 {
-	color: #000000;
-	background-color: #8EB688;
+	color: #000017;
+	background-color: #1D016E;
 }
 
 .html
@@ -360,28 +360,30 @@
 	margin-right: -10000px;
 }
 
-#u4172
+#u4141
 {
-	z-index: 142;
+	z-index: 127;
 	width: 749px;
+	min-height: 467px;
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
 	left: 250px;
 }
 
 #u4124-7
 {
-	z-index: 127;
-	width: 411px;
+	z-index: 128;
+	width: 742px;
 	min-height: 14px;
 	background-color: transparent;
 	font-size: 12px;
 	line-height: 14px;
 	font-style: italic;
 	margin-left: 252px;
-	margin-top: 7px;
+	margin-top: 6px;
 	position: relative;
 }
 
@@ -391,12 +393,12 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 14px;
-	margin: 7px 0px 0px 252px;
+	margin: 6px 0px 0px 252px;
 }
 
 #u4137-8
 {
-	z-index: 134;
+	z-index: 135;
 	width: 748px;
 	min-height: 70px;
 	background-color: transparent;
